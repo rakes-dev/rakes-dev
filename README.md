@@ -8,7 +8,7 @@
 ## 🔧 Tech Stack
 
 **Languages:**  
-Java • Python • Go • JavaScript • TypeScript  
+Java • Python • Go • JavaScript • TypeScript • Liquid
 
 **Web / Frontend:**  
 HTML • CSS • React • Vite  
