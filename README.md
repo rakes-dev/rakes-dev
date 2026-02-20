@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi, I'm Rakesh Sardar 👋
 
-<!--
-**rakes-dev/rakes-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MCA Student | 💻 Aspiring Software Developer  
+🚀 Interested in Web Development, Python, Go (Golang), and Problem Solving
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+
+**Languages:**  
+Java • Python • Go • JavaScript • TypeScript  
+
+**Web / Frontend:**  
+HTML • CSS • React • Vite  
+
+**Tools & Platforms:**  
+Git • GitHub • Shopify  
+
+---
+
+## 📌 Featured Projects
+
+🛒 **Madhues Ecommerce Store**  
+Custom ecommerce store with theme customization and UI improvements.
+
+⚙️ **Accident Management System**  
+Minor project focused on record management, CRUD operations, and logic design.
+
+🔐 **Password Validation App**  
+React + TypeScript application implementing validation logic and API integration.
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rakes-dev&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rakes-dev&layout=compact)
+
+---
+
+## 📫 Connect With Me
+
+🔗 LinkedIn: linkedin.com/in/rakesh-sardar-763a40217  
+📧 Email: rakesh374@outlook.com
+
+---
+
+⭐ Always learning, always building
