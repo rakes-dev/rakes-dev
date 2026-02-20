@@ -33,9 +33,9 @@ React + TypeScript application implementing validation logic and API integration
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rakes-dev&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com?user=rakes-dev)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rakes-dev&layout=compact&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rakes-dev&layout=compact)
 
 ---
 
