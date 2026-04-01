@@ -8,13 +8,13 @@
 ## 🔧 Tech Stack
 
 **Languages:**  
-Java • Python • Go • JavaScript • TypeScript • Liquid
+Java • Python • Go • TypeScript • Liquid
 
 **Web / Frontend:**  
 HTML • CSS • React • Vite  
 
 **Tools & Platforms:**  
-Git • GitHub • Shopify  
+AWS • Git • GitHub • Shopify  
 
 ---
 
