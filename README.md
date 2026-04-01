@@ -1,6 +1,6 @@
 # Hi, I'm Rakesh Sardar 👋
 
-🎓 MCA Student | 💻 Aspiring Software Developer  
+🎓 MCA Student | 💻 Software Developer  
 🚀 Interested in Web Development & Cloud Engineer
 
 ---
