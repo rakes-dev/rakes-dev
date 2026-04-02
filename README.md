@@ -20,7 +20,7 @@ AWS • Git • GitHub • Shopify
 
 ## 📌 Featured Projects
 
-🛒 **Madhues Ecommerce Store**  
+🛒 **[Madhues](https://Madhues.in) Ecommerce Store**  
 Custom ecommerce store with theme customization and UI improvements.
 
 ⚙️ **Accident Management System**  
